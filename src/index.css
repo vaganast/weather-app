@@ -1,0 +1,16 @@
+.my-button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid rgb(217 217 217);
+  &:hover {
+    cursor: pointer;
+    background-color: rgb(231, 243, 221, 50%);
+  }
+}
+.active {
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(138, 198, 84);
+  background-color: rgb(231, 243, 221);
+  border: 1px solid rgb(138, 198, 84);
+}
