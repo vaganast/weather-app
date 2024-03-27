@@ -17,7 +17,7 @@ Download or clone the repository
 cd weather-app
 npm install
 npm run dev
-the app will run in local: http://127.0.0.1:3000/
+the app will run in local: http://localhost:3000/
 
 Because the api we use is local
 open new terminal cd weather-app , if not in the project folder,
