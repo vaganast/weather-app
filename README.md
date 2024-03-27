@@ -24,6 +24,8 @@ open new terminal cd weather-app , if not in the project folder,
 and run the following command:
 json-server --watch api/weatherAPI.json --port 8000
 
+after the command refresh the page .
+
 the api end point is : http://localhost:8000/weather
 
 ## Technologies Used
